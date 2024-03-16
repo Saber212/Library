@@ -1,0 +1,9 @@
+.header{
+    padding: 10px 20px;
+    background-image: url("../public/images/pngtree-an-old-bookcase-in-a-library-image_2642908.jpg");
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
